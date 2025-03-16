@@ -173,4 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-rf_model.pkl
+notebook/rf_model.pkl
