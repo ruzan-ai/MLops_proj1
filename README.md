@@ -131,7 +131,7 @@ Contributions are welcome! Feel free to open issues and submit PRs.
 
 📞 Contact
 
-📧 Email: your.email@example.com🔗 LinkedIn: Your Profile📁 GitHub: Your GitHub
+📧 Email: ruzsanbhadha@gmail.com 🔗 LinkedIn: https://www.linkedin.com/in/ruzsan-bhadha-99253588/📁 GitHub: https://github.com/ruzan-ai/MLops_proj1
 
 🚀 If you found this project helpful, don't forget to ⭐ the repo!
 
