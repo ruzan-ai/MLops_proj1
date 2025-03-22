@@ -119,6 +119,7 @@
       sudo sh get-docker.sh
       sudo usermod -aG docker ubuntu
       newgrp docker
+      docker ps - to check the docker file 
 
 29. Next step is to connect Github with EC2(Self hosted runner):
       * select your project on Github >> go to settings >> Actions >> Runner >> New self hosted runner
@@ -134,6 +135,7 @@
       AWS_SECRET_ACCESS_KEY
       AWS_DEFAULT_REGION
       ECR_REPO
+      Monogdb url-  only if you want to make train model option work 
 
 31. CI-CD pipeline will be triggered at next commit and push.
 32. Now we need to activate the 5000 port of our EC2 instance:
