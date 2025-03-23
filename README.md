@@ -20,18 +20,31 @@ This project demonstrates a complete MLOps pipeline, integrating various tools a
 
 📁 mlops_project
 │── 📂 data                 # Raw & processed data storage
+
 │── 📂 models               # Trained models & artifacts
+
 │── 📂 notebooks            # EDA & experiments
+
 │── 📂 src                  # Core project code
+
 │   ├── 📂 components       # Data ingestion, validation, transformation, training
+
 │   ├── 📂 entity           # Configuration & model schema definitions
+
 │   ├── 📂 configuration    # MongoDB & AWS connection setup
+
 │   ├── 📂 pipelines        # End-to-end pipeline scripts
+
 │   ├── 📂 utils            # Helper functions
+
 │── 📄 app.py               # Flask API for model inference
+
 │── 📄 Dockerfile           # Docker configuration
+
 │── 📄 requirements.txt     # Required dependencies
+
 │── 📄 setup.py             # Package setup
+
 │── 📄 .github/workflows    # CI/CD configurations
 
 🛠 Tech Stack
