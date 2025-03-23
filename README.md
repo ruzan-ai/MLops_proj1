@@ -145,7 +145,9 @@ Deploy to EC2 → Pulls latest image and restarts the container
 🌟 Future Enhancements
 
 🔹 Monitoring & Logging – Implement AWS CloudWatch or Prometheus.
+
 🔹 Model Retraining Pipeline – Automate data drift detection & retraining.
+
 🔹 Feature Store – Use Feast for managing ML features.
 
 🤝 Contributing
