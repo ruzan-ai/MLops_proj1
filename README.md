@@ -7,13 +7,21 @@ This project demonstrates a complete MLOps pipeline, integrating various tools a
 🔥 Key Features
 
 ✅ Project Template Automation – Automated project setup using Python scripts.
+
 ✅ Virtual Environment & Dependency Management – Uses Conda & requirements.txt for reproducibility.
+
 ✅ MongoDB Atlas for Data Storage – Cloud-based NoSQL database for scalable storage.
+
 ✅ Data Pipeline & Preprocessing – Includes ingestion, validation, transformation.
+
 ✅ Model Training & Evaluation – Implements robust training pipeline with automated evaluation.
+
 ✅ AWS Integration – Uses AWS S3 for model storage and IAM for secure access.
+
 ✅ CI/CD with GitHub Actions & Docker – Automates model deployment.
+
 ✅ Model Deployment on EC2 – Hosts the ML model as an API using a self-hosted runner.
+
 ✅ Scalable & Secure – Implements best practices for security, monitoring, and performance.
 
 📂 Project Structure
@@ -119,7 +127,9 @@ docker push <AWS_ECR_REPO_URI>:latest
 📌 CI/CD Pipeline
 
 ✅ GitHub Actions automates testing, building, and deploying.
+
 ✅ Self-hosted Runner on AWS EC2 ensures scalability.
+
 ✅ AWS ECR stores the Docker image, while AWS EC2 serves the application.
 
 CI/CD Workflow
